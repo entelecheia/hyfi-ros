@@ -1,0 +1,39 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.14.3
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: gh:entelecheia/hyfi-template
+codecov_graph_token: qjqf3r3zVp
+copyright_year: 2024
+documentaion_tool: jupyter-book
+documentation_url: https://hyros.entelecheia.ai
+email: entelecheia@hotmail.com
+favicon_path: https://assets.entelecheia.ai/favicon.png
+friendly_name: HyFI-ROS
+github_repo_name: hyfi-ros
+github_username: entelecheia
+google_analytics_id: G-CZYFFQPZG3
+logo_path: ''
+main_branch: main
+open_link: false
+package_name: hyros
+package_scripts:
+- hyros = 'hyros.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: HyFI-ROS is a Python package that provides a framework for building
+    ROS-based robotics applications powered by large language models (LLMs). It includes
+    tools and utilities for integrating LLMs into ROS-based systems, as well as pre-built
+    components and templates for common robotics tasks.
+project_license: MIT
+project_name: hyfi-ros
+project_short_description: A Python pakckage for building ROS-based robotics applications
+    powered by LLMs.
+upload_to_release: true
+upload_to_repository: true
+use_launch_buttons: true
+use_source_code_skeleton: true
+
