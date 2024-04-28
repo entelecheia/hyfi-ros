@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "hyfi-ros"
-version = "0.0.0"
+version = "0.1.0"
 description = "A Python pakckage for building ROS-based robotics applications powered by LLMs."
 authors = ["Young Joon Lee <entelecheia@hotmail.com>"]
 license = "MIT"
